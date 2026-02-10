@@ -1,5 +1,5 @@
 <?php 
-require_once ("main.php");
+require_once __DIR__ . '/../main.php';
 
 ?>
 
@@ -270,6 +270,7 @@ supports Internet Explorer 11. For more information, read the <a title="cPanel B
 </style>
     <div class="copyright">Copyright©&nbsp;2025 cPanel, L.L.C.
     <br><a href="https://go.cpanel.net/privacy" target="_blank">Privacy Policy</a></div>
+
 
 
 
